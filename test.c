@@ -1,13 +1,10 @@
 #include <stdio.h>
-#include "pch.h"
 #include <stdlib.h>
 #include <time.h>
-#include "test.h"
 
 int main()
 {
 	int number;
-	
 	while(1)
 	{
 		printf("请输入一个1-9的数字进行抽签：\n");
